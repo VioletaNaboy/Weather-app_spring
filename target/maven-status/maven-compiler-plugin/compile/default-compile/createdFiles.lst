@@ -1,0 +1,6 @@
+com/example/demo/service/WeatherService.class
+com/example/demo/WeatherApplication.class
+com/example/demo/repository/Impls/OpenWeatherRepositoryImpl.class
+com/example/demo/repository/OpenWeatherRepository.class
+com/example/demo/controller/WeatherController.class
+com/example/demo/domain/WeatherData.class
